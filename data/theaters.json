@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "MK2 Bibliothèque",
+    "address": "128-162 avenue de France, 75013 Paris",
+    "logo": {
+      "src": "static/images/theaters/mk2.png"
+    },
+    "sessionsIds": [1, 5, 9, 13, 17, 21]
+  },
+  {
+    "id": 2,
+    "title": "UGC Ciné-Cité Bercy",
+    "address": "2 cour Saint-Emilion, 75012 Paris",
+    "logo": {
+      "src": "static/images/theaters/ugc.png"
+    },
+    "sessionsIds": [2, 6, 10, 14, 18, 22]
+  },
+  {
+    "id": 3,
+    "title": "Pathé Quai d'Ivry IMAX",
+    "address": "2 quai Marcel Boyer, 94200 Ivry-sur-Seine",
+    "logo": {
+      "src": "static/images/theaters/pathe.png"
+    },
+    "sessionsIds": [3, 7, 11, 15, 19, 23]
+  },
+  {
+    "id": 4,
+    "title": "Gaumont Les Fauvettes",
+    "address": "58 avenue des Gobelins, 75013 Paris",
+    "logo": {
+      "src": "static/images/theaters/gaumont.png"
+    },
+    "sessionsIds": [4, 8, 12, 16, 20, 24]
+  }
+]

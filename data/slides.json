@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "link": "/movies/5",
+    "imgSrc": "static/images/movies/starwars.jpg",
+    "imgSrcFull": "static/images/movies/starwars-full.jpg",
+    "imgAlt": "Star Wars : The Last Jedi"
+  },
+  {
+    "id": 2,
+    "link": "/movies/6",
+    "imgSrc": "static/images/movies/coco.jpg",
+    "imgSrcFull": "static/images/movies/coco-full.jpg",
+    "imgAlt": "Coco"
+  },
+  {
+    "id": 3,
+    "link": "/movies/2",
+    "imgSrc": "static/images/movies/spiderman.jpg",
+    "imgSrcFull": "static/images/movies/spiderman-full.jpg",
+    "imgAlt": "Spiderman"
+  }
+]

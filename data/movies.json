@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Sense 8",
+    "summary": "Huit individus éparpillés aux quatre coins du monde sont connectés par une soudaine et violente vision. Désormais liés, ils se retrouvent capables du jour au lendemain de se voir, de se sentir, de s'entendre et de se parler comme s'ils étaient au même endroit, et ainsi accéder aux plus sombres secrets des uns et des autres.",
+    "releasedDate": "2015-06-05",
+    "category": "Science fiction",
+    "categoryId": 1,
+    "image": {
+      "src": "static/images/movies/sense8.jpg"
+    },
+    "video": {
+      "youtube": "https://www.youtube.com/embed/a8NYhEXnOhA"
+    },
+    "sessionsIds": [1, 2, 3, 4]
+  },
+  {
+    "id": 2,
+    "title": "Spider-man",
+    "category": "Fantastique",
+    "categoryId": 2,
+    "summary": "Après ses spectaculaires débuts dans Captain America : Civil War, le jeune Peter Parker découvre peu à peu sa nouvelle identité, celle de Spider-Man, le super-héros lanceur de toile. Galvanisé par son expérience avec les Avengers, Peter rentre chez lui auprès de sa tante May, sous l’œil attentif de son nouveau mentor, Tony Stark. Il s’efforce de reprendre sa vie d’avant, mais au fond de lui, Peter rêve de se prouver qu’il est plus que le sympathique super héros du quartier.",
+    "releasedDate": "2017-07-12",
+    "image": {
+      "src": "static/images/movies/spiderman.jpg"
+    },
+    "video": {
+      "youtube": "https://www.youtube.com/embed/39udgGPyYMg"
+    },
+    "sessionsIds": [5, 6, 7, 8]
+  },
+  {
+    "id": 3,
+    "title": "Fight Club",
+    "category": "Drame",
+    "categoryId": 3,
+    "summary": "Le narrateur, sans identité précise, vit seul, travaille seul, dort seul, mange seul ses plateaux-repas pour une personne comme beaucoup d'autres personnes seules qui connaissent la misère humaine, morale et sexuelle. C'est pourquoi il va devenir membre du Fight club, un lieu clandestin ou il va pouvoir retrouver sa virilité, l'échange et la communication. Ce club est dirigé par Tyler Durden, une sorte d'anarchiste entre gourou et philosophe qui prêche l'amour de son prochain.",
+    "releasedDate": "1999-11-10",
+    "image": {
+      "src": "static/images/movies/fightclub.jpg"
+    },
+    "video": {
+      "youtube": "https://www.youtube.com/embed/SUXWAEX2jlg"
+    },
+    "sessionsIds": [9, 10, 11, 12]
+  },
+  {
+    "id": 4,
+    "title": "Valerian",
+    "category": "Science fiction",
+    "categoryId": 1,
+    "summary": "Au 28ème siècle, Valérian et Laureline forment une équipe d'agents spatio-temporels chargés de maintenir l'ordre dans les territoires humains. Mandaté par le Ministre de la Défense, le duo part en mission sur l’extraordinaire cité intergalactique Alpha - une métropole en constante expansion où des espèces venues de l'univers tout entier ont convergé au fil des siècles pour partager leurs connaissances, leur savoir-faire et leur culture.",
+    "releasedDate": "2017-07-26",
+    "image": {
+      "src": "static/images/movies/valerian.jpg"
+    },
+    "video": {
+      "youtube": "https://www.youtube.com/embed/PxH45ivUomw"
+    },
+    "sessionsIds": [13, 14, 15, 16]
+  },
+  {
+    "id": 5,
+    "title": "Star Wars : The Last Jedi",
+    "category": "Science fiction",
+    "categoryId": 1,
+    "summary": "Les héros du Réveil de la force rejoignent les figures légendaires de la galaxie dans une aventure épique qui révèle des secrets ancestraux sur la Force et entraîne de surprenantes révélations sur le passé...",
+    "releasedDate": "2017-12-13",
+    "image": {
+      "src": "static/images/movies/starwars.jpg"
+    },
+    "video": {
+      "youtube": "https://www.youtube.com/embed/zB4I68XVPzQ"
+    },
+    "sessionsIds": [17, 19, 19, 20]
+  },
+  {
+    "id": 6,
+    "title": "Coco",
+    "category": "Fantastique",
+    "categoryId": 2,
+    "summary": "Depuis déjà plusieurs générations, la musique est bannie dans la famille de Miguel. Un vrai déchirement pour le jeune garçon dont le rêve ultime est de devenir un musicien aussi accompli que son idole, Ernesto de la Cruz.",
+    "releasedDate": "2017-11-29",
+    "image": {
+      "src": "static/images/movies/coco.jpg"
+    },
+    "video": {
+      "youtube": "https://www.youtube.com/embed/bvomHFZO0mk"
+    },
+    "sessionsIds": [21, 22, 23, 24]
+  }
+]

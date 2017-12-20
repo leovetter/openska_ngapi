@@ -1,0 +1,12 @@
+{
+  "name": "cinemapp",
+  "files": [
+    "data",
+    "htdocs",
+    "services",
+    "static",
+    "routes.js",
+    "server.conf.json",
+    "server.js"
+  ]
+}

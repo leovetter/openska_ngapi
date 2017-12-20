@@ -1,0 +1,458 @@
+[
+  {
+    "id": 1,
+    "movieId": 1,
+    "theaterId": 1,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:30"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:30"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "movieId": 1,
+    "theaterId": 2,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:15"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:00"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "movieId": 1,
+    "theaterId": 3,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "15:45"
+      },
+      {
+        "id": 2,
+        "hour": "19:00"
+      },
+      {
+        "id": 3,
+        "hour": "22:15"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "movieId": 1,
+    "theaterId": 4,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:00"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:00"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "movieId": 2,
+    "theaterId": 1,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:05"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:10"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "movieId": 2,
+    "theaterId": 2,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:20"
+      },
+      {
+        "id": 2,
+        "hour": "20:00"
+      },
+      {
+        "id": 3,
+        "hour": "22:45"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "movieId": 2,
+    "theaterId": 3,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "15:50"
+      },
+      {
+        "id": 2,
+        "hour": "18:55"
+      },
+      {
+        "id": 3,
+        "hour": "21:45"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "movieId": 2,
+    "theaterId": 4,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:20"
+      },
+      {
+        "id": 2,
+        "hour": "19:40"
+      },
+      {
+        "id": 3,
+        "hour": "22:10"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "movieId": 3,
+    "theaterId": 1,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:30"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:30"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "movieId": 3,
+    "theaterId": 2,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:15"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:00"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "movieId": 3,
+    "theaterId": 3,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "15:45"
+      },
+      {
+        "id": 2,
+        "hour": "19:00"
+      },
+      {
+        "id": 3,
+        "hour": "22:15"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "movieId": 3,
+    "theaterId": 4,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:00"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:00"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "movieId": 4,
+    "theaterId": 1,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:30"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:30"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "movieId": 4,
+    "theaterId": 2,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:15"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:00"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "movieId": 4,
+    "theaterId": 3,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "15:45"
+      },
+      {
+        "id": 2,
+        "hour": "19:00"
+      },
+      {
+        "id": 3,
+        "hour": "22:15"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "movieId": 4,
+    "theaterId": 4,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:00"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:00"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "movieId": 5,
+    "theaterId": 1,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:30"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:30"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "movieId": 5,
+    "theaterId": 2,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:15"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:00"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "movieId": 5,
+    "theaterId": 3,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "15:45"
+      },
+      {
+        "id": 2,
+        "hour": "19:00"
+      },
+      {
+        "id": 3,
+        "hour": "22:15"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "movieId": 5,
+    "theaterId": 4,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:00"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:00"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "movieId": 6,
+    "theaterId": 1,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:30"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:30"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "movieId": 6,
+    "theaterId": 2,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:15"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:00"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "movieId": 6,
+    "theaterId": 3,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "15:45"
+      },
+      {
+        "id": 2,
+        "hour": "19:00"
+      },
+      {
+        "id": 3,
+        "hour": "22:15"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "movieId": 6,
+    "theaterId": 4,
+    "schedules": [
+      {
+        "id": 1,
+        "hour": "16:00"
+      },
+      {
+        "id": 2,
+        "hour": "19:30"
+      },
+      {
+        "id": 3,
+        "hour": "22:00"
+      }
+    ]
+  }
+]
